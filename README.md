@@ -1,2 +1,2 @@
 # Ferramenta-de-Desenvolvimento
-Esta funcionalidade é o eruda,  um pacote javascript de código aberto hospedado publicamente no github aqui e contribuições são bem-vindas.Se você achou este conteúdo útil, mostre um pouco de amor e compartilh com seus amigos 🤗  Veja o que você pode fazer com a ferramenta de desenvolvimento Eruda  Ver console javascript Inspecionar elemento Rastrear solicitações do Ajax Visualizar arquivos de origem do site Altere o CSS diretamente da página da web E outros recursos incríveis
+Esta funcionalidade é o eruda,  um pacote javascript de código aberto hospedado publicamente no github aqui e contribuições são bem-vindas.
